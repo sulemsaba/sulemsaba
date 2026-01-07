@@ -1,11 +1,173 @@
-[[
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suleiman-msaba) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/iaslyman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suleimanmsaba1@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=sulemsaba&icon=0&color=0)](https://visitcount.itsvg.in)
+# Jambo! I'm 👨‍💻 Suleiman Msaba
+**Software Engineer & Full-Stack Developer**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suleiman-msaba)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleimanmsaba1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sulemsaba)
+
+---
+
+</div>
+
+##  About Me
+I'm a passionate software engineer with expertise in building scalable, high-performance applications across the full stack. I thrive on solving complex problems and creating elegant, impactful solutions.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Suleiman Msaba"
+        self.role = "Software Engineer"
+        self.passion = "Building things that matter"
+        self.focus = ["Backend Development", "Cloud Architecture", "System Design"]
+
+    def current_mood(self):
+        return "🚀 Building something awesome"
+````
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Platforms**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square\&logo=ruby\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+</div>
+
+### **Backend**
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+
+</div>
+
+### **Frontend**
+
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+
+</div>
+
+### **Databases**
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+</div>
+
+### **DevOps & Cloud**
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+</div>
+
+---
+
+
+
+---
+<!--
+## 🌟 Featured Projects
+
+### **Project Name 1 | 🏆 Highlight**
+
+Short description of what this project does and why it matters.
+
+```
+Tech Stack: Django, Vue.js, PostgreSQL, Docker
+```
+
+---
+
+### **Project Name 2 | ⚡ Performance Focused**
+
+Description highlighting scalability, speed, or innovation.
+
+```
+Tech Stack: FastAPI, React, MongoDB, AWS
+```
+-->
+---
+
+##  Development Activity
+
+```mermaid
+graph TD
+    A[Planning & Design] --> B[Backend Development]
+    B --> C[Database Architecture]
+    B --> D[API Development]
+    C --> E[Testing & Optimization]
+    D --> E
+    E --> F[Frontend Integration]
+    F --> G[Deployment & Scaling]
+```
+
+---
+
+##  Design Philosophy
+
+> "Simplicity is the ultimate sophistication." – Leonardo da Vinci
+
+* Maintainable
+* Scalable
+* User-Centric
+* Secure
+
+---
+
+##  Let's Connect
+
+<div align="center">
+
+💼 Open to collaborations
+📚 Always learning
+🎯 Let’s build something amazing together
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_Professionally-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/suleiman-msaba)
+[![Email Me](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suleimanmsaba1@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+© 2026 Suleiman Msaba | Crafted with ❤️
+
+</div>
+```
