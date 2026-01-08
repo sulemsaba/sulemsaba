@@ -97,17 +97,17 @@ class Developer:
 
 
 ---
-<!--
+
 ## 🌟 Featured Projects
 
-### **Project Name 1 | 🏆 Highlight**
+### **Pdf Darker** 
 
-Short description of what this project does and why it matters.
+
 
 ```
-Tech Stack: Django, Vue.js, PostgreSQL, Docker
+Tech Stack: Python
 ```
-
+<!--
 ---
 
 ### **Project Name 2 | ⚡ Performance Focused**
