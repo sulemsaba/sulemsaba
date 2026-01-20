@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Jambo! I'm 👨‍💻 Suleiman Msaba
+#Hey Jambo! I'm 👨‍💻 Suleiman Msaba
 **Software Engineer & Full-Stack Developer**
 
 <br>
