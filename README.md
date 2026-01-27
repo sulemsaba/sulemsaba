@@ -130,7 +130,7 @@ graph TD
     C --> E[Testing & Optimization]
     D --> E
     E --> F[Frontend Integration]
-    F --> G[Deployment & Scaling]
+    F --> G[Deployment And Scaling]
 ```
 
 ---
