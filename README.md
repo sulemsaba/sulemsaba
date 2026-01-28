@@ -27,7 +27,7 @@ class Developer:
         self.focus = ["Backend Development", "Cloud Architecture", "System Design"]
 
     def current_mood(self):
-        return "🚀 Building something awesome"
+        return "🚀 Building something awesome clasy"
 ````
 
 ---
