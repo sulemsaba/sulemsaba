@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="right">
 
 Jambo! I'm  Suleiman Msaba
 **Software Engineer / Data Analytics & Full-Stack Developer**
