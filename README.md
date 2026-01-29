@@ -23,7 +23,7 @@ class Developer:
     def __init__(self):
         self.name = "Suleiman Msaba"
         self.role = "Software Engineer"
-        self.passion = "Building things that matter"
+        self.passion = "Building imprensive things that matter"
         self.focus = ["Backend Development", "Cloud Architecture", "System Design"]
 
     def current_mood(self):
