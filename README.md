@@ -17,7 +17,7 @@ I'm  Suleiman Msaba
 </div>
 
 ##  About Me
-I'm a passionate software engineer with expertise in building scalable, high-performance applications across the full stack. I thrive on solving complex problems and creating elegant, impactful solutions.
+I'm a passionate software engineer with expertise in building scalable, high-performance applications across the full stack. I thrive on solving complex real problems and creating elegant, impactful solutions.
 
 ```python
 class Developer:
