@@ -1,7 +1,8 @@
 
 <div align="center">
 
-Jambo! I'm  Suleiman Msaba
+**Jambo!**
+I'm  Suleiman Msaba
 **Software Engineer / Data Analytics & Full-Stack Developer**
 
 <br>
