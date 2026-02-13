@@ -2,7 +2,7 @@
 <div align="center">
 
 **Jambo!**
-I'm  a **Software Engineer / Data Analytics & Full-Stack Developer**
+I'm  a **Software Engineer a Data Analytics & Full-Stack Developer**
 
 <br>
 
